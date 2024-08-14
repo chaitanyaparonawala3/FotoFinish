@@ -9,8 +9,8 @@ FotoFinish keeps cleaners accountable, yielding reduced supervision costs while 
 
 ### FotoFinish Screenshots
 
-![App UI](/image1.png)
-![App UI](/image2.png)
-![App UI](/image3.png)
-![App UI](/image4.png)
-![App UI](/image5.png)
+![App UI](/image1.PNG)
+![App UI](/image2.PNG)
+![App UI](/image3.PNG)
+![App UI](/image4.PNG)
+![App UI](/image5.PNG)
